@@ -3,4 +3,20 @@ This project is nothing but applying most common NLP techniques in order to gain
 
 
 
-<center><img src="The-Iliad.jpg" alt="Logo" class="centerImage"></center>
+<p align = "center">
+<img src="The-Iliad.jpg" alt="Logo" align = "center">
+  </p>
+<img src="1.png" alt="Logo" align = "center">
+</p>
+<p align = "center">
+<img src="2.png" alt="Logo" align = "center">
+</p>
+<p align = "center">
+<img src="3.png" alt="Logo" align = "center">
+</p>
+<p align = "center">
+<img src="4.png" alt="Logo" align = "center">
+</p>
+<p align = "center">
+<img src="5.png" alt="Logo" align = "center">
+</p>

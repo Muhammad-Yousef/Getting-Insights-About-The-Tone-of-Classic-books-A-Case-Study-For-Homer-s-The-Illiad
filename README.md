@@ -5,7 +5,8 @@ This project is nothing but applying most common NLP techniques in order to gain
 
 <p align = "center">
 <img src="The-Iliad.jpg" alt="Logo" align = "center">
-  </p>
+</p>
+<p align = "center">
 <img src="1.png" alt="Logo" align = "center">
 </p>
 <p align = "center">
